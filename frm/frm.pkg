@@ -1,4 +1,13 @@
-D 'cvmtest': K-sample Cramer-von Mises equality-of-distributions test Use cvmtest With STATA 19
+D 'frm': Estimation of one-part and two-part fractional regression models Use frm With STATA 19
 D
-F cvmtest.ado
-F cvmtest.sthlp
+F frm.ado
+F frm.sthlp
+F frm_cauchit.ado
+F frm_ggoff.ado
+F frm_ggoff.sthlp
+F frm_pe.ado
+F frm_pe.sthlp
+F frm_ptest.ado
+F frm_ptest.sthlp
+F frm_reset.ado
+F frm_reset.sthlp
