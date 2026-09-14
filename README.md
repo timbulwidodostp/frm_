@@ -1,6 +1,8 @@
 # frm_
 Estimation of one-part and two-part fractional regression models Use frm With STATA 19
 
+https://www.youtube.com/watch?v=VHbDoJN6haQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
